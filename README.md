@@ -1,1 +1,0 @@
-# IntermediateCSS-CatPainting
